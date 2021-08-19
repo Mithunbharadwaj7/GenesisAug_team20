@@ -14,6 +14,8 @@ Or gate is a circuit which gives a high output if one or more of its inputs are 
 
 
 **TRUTH TABLE** 
+
+
 ![Screenshot (34)](https://user-images.githubusercontent.com/80388673/130077635-1ba6bf03-41dc-46ba-91ea-fa2ded528641.png)
 
 **NOT GATES**
@@ -22,6 +24,8 @@ The NOT gate is a circuit which produces at its output the negated version of it
 
 
 **TRUTH TABLE** 
+
+
 ![Screenshot (35)](https://user-images.githubusercontent.com/80388673/130078286-e2ecfe49-17b8-4a2a-bb37-faaaf48c5160.png)
 
 # UNIVERSAL GATES

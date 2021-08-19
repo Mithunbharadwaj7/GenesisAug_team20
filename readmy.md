@@ -35,6 +35,21 @@ The NOT gate is a circuit which produces at its output the negated version of it
 The NAND gate is a NOT-AND circuit which is equivalent to an AND circuit followed by a NOT circuit. The output of the NAND gate is high if any of its inputs is low.
 
 
+**TRUTH TABLE** 
+
+
+![Screenshot (37)](https://user-images.githubusercontent.com/80388673/130080135-8be2809e-cde6-4b5b-994a-c73abea49121.png)
+
+**NOR GATE**
+
+The NOR gate is a NOT-OR circuit which is equivalent to an OR circuit followed by a NOT circuit. The output of the NOR gate is low if any of its inputs is high.
+
+
+
+**TRUTH TABLE** 
+
+![Screenshot (38)](https://user-images.githubusercontent.com/80388673/130080938-d2b891ba-3e55-4c24-8133-873c38976384.png)
+
 
 
 

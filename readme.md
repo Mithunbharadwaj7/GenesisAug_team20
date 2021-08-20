@@ -4,5 +4,5 @@
 |--|--|--|
 |HL1|Truth table of basic gates|Implemented|
 |HL2|Binary calculations|Implemented|
-|HL3|
+|HL3|Multiplexer|
 
